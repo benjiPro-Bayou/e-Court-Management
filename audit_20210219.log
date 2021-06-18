@@ -1,0 +1,6 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+ፌብሩ 19,2021	10:30:42	::1	admin	user	login
+ፌብሩ 19,2021	10:32:42	::1	admin	administrative hearing	add	1	Date&Time		2021-02-11
+ፌብሩ 19,2021	10:32:42	::1	admin	administrative hearing	add	1	CaseDetail		test
+ፌብሩ 19,2021	10:32:42	::1	admin	administrative hearing	add	1	Status		Pending
+ፌብሩ 19,2021	10:32:42	::1	admin	administrative hearing	add	1	CaseOpenedBy		admin

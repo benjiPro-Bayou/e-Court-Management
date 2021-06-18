@@ -1,0 +1,32 @@
+Date	Time	IP	User	Table	Action	Key field	Field	Old value	New value
+ፌብሩ 18,2021	18:45:27	127.0.0.1	admin	employee	add	1	EmpFullName		TestEmp1
+ፌብሩ 18,2021	18:45:27	127.0.0.1	admin	employee	add	1	DOB		2020-07-07
+ፌብሩ 18,2021	18:45:27	127.0.0.1	admin	employee	add	1	email		jksjkfjk
+ፌብሩ 18,2021	18:45:27	127.0.0.1	admin	employee	add	1	Phone		sklkjklf
+ፌብሩ 18,2021	18:45:27	127.0.0.1	admin	employee	add	1	EducationalBackground		lsljlksjflksj
+ፌብሩ 18,2021	18:45:27	127.0.0.1	admin	employee	add	1	attachment		Capture.PNG
+ፌብሩ 18,2021	18:50:13	127.0.0.1	admin	employee	add	2	EmpFullName		Emp2
+ፌብሩ 18,2021	18:50:13	127.0.0.1	admin	employee	add	2	attachment		Uzi San.jpg
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	EID	1
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	EmpFullName	TestEmp1
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	DOB	2020-07-07 00:00:00
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	email	jksjkfjk
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	Phone	sklkjklf
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	EducationalBackground	lsljlksjflksj
+ፌብሩ 18,2021	18:50:32	127.0.0.1	admin	employee	delete	1	attachment	Capture.PNG
+ፌብሩ 18,2021	18:50:44	127.0.0.1	admin	employee	add	3	EmpFullName		emp1
+ፌብሩ 18,2021	18:50:44	127.0.0.1	admin	employee	add	3	attachment		Capture.PNG
+ፌብሩ 18,2021	22:41:51	127.0.0.1	admin	user	login
+ፌብሩ 18,2021	22:43:06	127.0.0.1	admin	casemanagement	add	1	Date&Time		2021-02-18 22:42:23
+ፌብሩ 18,2021	22:43:06	127.0.0.1	admin	casemanagement	add	1	CaseType		Criminal
+ፌብሩ 18,2021	22:43:06	127.0.0.1	admin	casemanagement	add	1	Suspect		sus1
+ፌብሩ 18,2021	22:43:06	127.0.0.1	admin	casemanagement	add	1	CaseOpenedBy		case openby
+ፌብሩ 18,2021	22:43:06	127.0.0.1	admin	casemanagement	add	1	Prosecutor		admin
+ፌብሩ 18,2021	22:43:06	127.0.0.1	admin	casemanagement	add	1	Accuser		admin
+ፌብሩ 18,2021	22:44:43	127.0.0.1	admin	casefollowup	add	1	CID		1
+ፌብሩ 18,2021	22:44:43	127.0.0.1	admin	casefollowup	add	1	Appointment		2021-02-18
+ፌብሩ 18,2021	22:44:43	127.0.0.1	admin	casefollowup	add	1	RequestedDocOrWitness		Uzi San.jpg
+ፌብሩ 18,2021	22:44:43	127.0.0.1	admin	casefollowup	add	1	Status		Active
+ፌብሩ 18,2021	22:44:43	127.0.0.1	admin	casefollowup	add	1	Date&Time		2021-02-18 22:44:16
+ፌብሩ 18,2021	22:44:43	127.0.0.1	admin	casefollowup	add	1	RecordedBy		admin
+ፌብሩ 18,2021	22:48:30	127.0.0.1	admin	user	login
