@@ -1,1 +1,3 @@
 # e-Court-Management
+
+With the current global condition that we are facing: a global pandemic that is being eradicated through direct and face to face interaction of people, and time value being utmost high value. We need to upgrade and cope up with the current advancement of technology that can reduce the unnecessary wastage of time to get Government Services. Due to the mentioned reasons it is mandatory need to upgrade government service functions to online automated systems. The best possible way to get maximum efficiency, transparency and accountability of service through integrating an online service mechanism. 
